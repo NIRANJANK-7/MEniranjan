@@ -71,28 +71,6 @@ An emergency alert app with a hidden SOS trigger and live location tracking. Use
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NIRANJANK-7&show_icons=true&theme=radical" alt="Niranjan's GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=NIRANJANK-7&theme=radical" alt="Niranjan's GitHub streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIRANJANK-7&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NIRANJANK-7/NIRANJANK-7/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-> This one needs a one-time setup — see the note at the bottom.
-
----
 
 ### 📫 Connect with Me
 
