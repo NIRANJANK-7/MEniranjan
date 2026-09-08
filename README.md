@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niranjan K</h1>
-<h3 align="center">2nd Year B.Tech CSE Student | Aspiring Software Developer | Exploring AI & Cybersecurity</h3>
+<h3 align="center">3rd Year B.Tech CSE Student | Aspiring Software Developer | Exploring AI & Cybersecurity</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niranjan-k-2519a5329" target="_blank">
