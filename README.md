@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Niranjan K</h1>
-<h3 align="center">3rd Year B.Tech CSE Student | Aspiring Software Developer | Exploring AI & Cybersecurity</h3>
+<h1 align="center">
+  Hi there, I'm Niranjan K
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=2nd+Year+B.Tech+CSE+Student;Learning+Java+%26+Python;Exploring+AI+%26+Cybersecurity;Building+Real-World+Projects" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niranjan-k-2519a5329" target="_blank">
@@ -13,6 +19,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NIRANJANK-7&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -22,7 +32,7 @@
 - 📚 Studying **Data Structures, DBMS, and Operating Systems**
 - 🤖 Exploring **Artificial Intelligence** and **Cybersecurity**
 - 🚀 Building small real-world projects to strengthen my practical skills
-
+- 📈 Academic performance: Sem 1 – 9.0 CGPA, Sem 2 – 8.45 CGPA, Sem 3 – 8.67 CGPA
 
 ---
 
@@ -67,8 +77,23 @@ An emergency alert app with a hidden SOS trigger and live location tracking. Use
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NIRANJANK-7&show_icons=true&theme=default" alt="Niranjan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NIRANJANK-7&show_icons=true&theme=radical" alt="Niranjan's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIRANJANK-7&theme=radical" alt="Niranjan's GitHub streak" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIRANJANK-7&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NIRANJANK-7/NIRANJANK-7/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+> This one needs a one-time setup — see the note at the bottom.
 
 ---
 
@@ -81,3 +106,7 @@ Feel free to reach out for collaboration on projects, or just to talk tech!
   <a href="https://www.linkedin.com/in/niranjan-k-2519a5329">LinkedIn</a> •
   <a href="https://github.com/NIRANJANK-7">GitHub</a>
 </p>
+
+---
+
+<p align="center"><i>Last updated: automatically reflects live data from GitHub & badge services above.</i></p>
