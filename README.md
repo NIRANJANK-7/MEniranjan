@@ -29,7 +29,7 @@
 - 📚 Studying **Data Structures, DBMS, and Operating Systems**
 - 🤖 Exploring **Artificial Intelligence** and **Cybersecurity**
 - 🚀 Building small real-world projects to strengthen my practical skills
-- 📈 Academic performance: Sem 1 – 9.0 CGPA, Sem 2 – 8.45 CGPA, Sem 3 – 8.67 CGPA
+
 
 ---
 
