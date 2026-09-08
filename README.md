@@ -1,10 +1,7 @@
-<h1 align="center">
-  Hi there, I'm Niranjan K
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-</h1>
+<h1 align="center">Hi there 👋, I'm Niranjan K</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=2nd+Year+B.Tech+CSE+Student;Learning+Java+%26+Python;Exploring+AI+%26+Cybersecurity;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Undergraduate+in+Computer+Science;Learning+Java+%26+Python;Exploring+AI+%26+Cybersecurity;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,7 +24,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Currently pursuing a **B.Tech in Computer Science Engineering** at Sree Buddha College of Engineering (Expected Graduation: 2028)
+- 🎓 Undergraduate student pursuing a **B.Tech in Computer Science Engineering** at Sree Buddha College of Engineering
 - 💻 Learning **Java** in depth, with a working foundation in **Python**
 - 📚 Studying **Data Structures, DBMS, and Operating Systems**
 - 🤖 Exploring **Artificial Intelligence** and **Cybersecurity**
@@ -78,7 +75,7 @@ An emergency alert app with a hidden SOS trigger and live location tracking. Use
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NIRANJANK-7&show_icons=true&theme=radical" alt="Niranjan's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIRANJANK-7&theme=radical" alt="Niranjan's GitHub streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=NIRANJANK-7&theme=radical" alt="Niranjan's GitHub streak" height="165" />
 </p>
 
 <p align="center">
